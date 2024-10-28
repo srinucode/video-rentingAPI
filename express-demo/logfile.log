@@ -1,0 +1,130 @@
+{"level":"info","message":"Hi i am listing to port 8008","timestamp":"2018-09-20T22:26:21.350Z"}
+{"level":"info","message":"Hi i am listing to port 8008","timestamp":"2018-09-20T22:48:57.619Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-09-20T22:48:58.789Z"}
+{"level":"info","message":"Hi i am listing to port 8008","timestamp":"2018-09-20T22:50:20.241Z"}
+{"level":"info","message":"Hi i am listing to port 8008","timestamp":"2018-09-20T22:51:34.951Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-09-20T22:51:36.143Z"}
+{"level":"info","message":"Hi i am listing to port 8008","timestamp":"2018-09-20T22:52:40.974Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-09-20T22:52:42.149Z"}
+{"message":"hello","stack":"Error: hello\n    at router.get (E:\\NodeJsProject\\FIRST-APP\\express-demo\\routes\\genres.js:12:11)\n    at newFn (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express-async-errors\\index.js:25:20)\n    at Layer.handle [as handle_request] (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express-async-errors\\index.js:25:20)\n    at Layer.handle [as handle_request] (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express-async-errors\\index.js:25:20)\n    at Layer.handle [as handle_request] (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\body-parser\\lib\\types\\json.js:109:7)\n    at newFn (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express-async-errors\\index.js:25:20)\n    at Layer.handle [as handle_request] (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:317:13)","level":"error","timestamp":"2018-09-20T22:52:46.167Z"}
+{"level":"info","message":"Hi i am listing to port 8008","timestamp":"2018-09-20T23:06:17.796Z"}
+{"level":"info","message":"Hi i am listing to port 8008","timestamp":"2018-09-20T23:07:54.841Z"}
+{"level":"info","message":"Hi i am listing to port 8008","timestamp":"2018-09-20T23:08:41.430Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-09-20T23:08:42.613Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-09-21T06:51:39.219Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-09-21T06:51:40.385Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-09-21T06:53:50.015Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-09-21T06:53:51.175Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-02T18:18:05.784Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-02T18:18:07.092Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-02T18:27:02.571Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-02T18:27:03.731Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T04:42:31.337Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T04:42:32.522Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T05:04:44.487Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T05:04:45.724Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T05:06:18.126Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T05:06:19.341Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T05:08:09.220Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T05:08:10.619Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T05:09:26.729Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T05:09:27.871Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T05:11:54.340Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T05:11:55.563Z"}
+{"message":"Converting circular structure to JSON","stack":"TypeError: Converting circular structure to JSON\n    at JSON.stringify (<anonymous>)\n    at router.post (E:\\NodeJsProject\\FIRST-APP\\express-demo\\routes\\users.js:15:35)\n    at newFn (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express-async-errors\\index.js:25:20)\n    at Layer.handle [as handle_request] (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express-async-errors\\index.js:25:20)\n    at Layer.handle [as handle_request] (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express-async-errors\\index.js:25:20)\n    at Layer.handle [as handle_request] (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (E:\\NodeJsProject\\FIRST-APP\\express-demo\\node_modules\\express\\lib\\router\\index.js:174:3)","level":"error","timestamp":"2018-10-03T05:12:28.009Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T05:13:10.016Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T05:13:11.263Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T05:23:43.655Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T05:23:44.935Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T06:35:42.691Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T06:35:43.934Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T18:58:52.879Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T18:58:54.101Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T21:59:07.831Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T22:19:21.684Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T22:20:58.246Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T22:20:59.417Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-03T23:45:13.638Z"}
+{"level":"info","message":"Connected to db mongodb://localhost/vidlyDB","timestamp":"2018-10-03T23:45:14.805Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T14:49:50.274Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T14:52:14.036Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T14:58:33.621Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:02:00.537Z"}
+{"level":"info","message":"Connected to db vidlyDB","timestamp":"2018-10-07T15:02:01.725Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:07:06.017Z"}
+{"level":"info","message":"Connected to db vidlyDB","timestamp":"2018-10-07T15:07:07.284Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:07:52.165Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T15:07:53.347Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:08:17.748Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T15:08:18.859Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:17:05.318Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T15:17:55.305Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T15:17:56.393Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T16:25:18.270Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T16:25:19.516Z"}
+{"message":"res.headers is not a function","stack":"TypeError: res.headers is not a function\n    at router.post (E:\\NodeJsProject\\FIRST-APP\\express-demo\\routes\\auth.js:22:6)\n    at <anonymous>","level":"error","timestamp":"2018-10-07T16:25:48.876Z"}
+{"message":"res.headers is not a function","stack":"TypeError: res.headers is not a function\n    at router.post (E:\\NodeJsProject\\FIRST-APP\\express-demo\\routes\\auth.js:22:6)\n    at <anonymous>","level":"error","timestamp":"2018-10-07T16:33:39.644Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T16:34:02.927Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T16:34:04.139Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T16:55:24.768Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T16:55:25.924Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T16:56:52.767Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T16:56:53.909Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-07T19:31:00.970Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-07T19:31:02.203Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-08T06:50:13.396Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-08T06:50:14.672Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T15:52:38.342Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T15:52:39.480Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T15:58:38.962Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T15:58:40.086Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T16:03:57.785Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T16:03:58.969Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T16:07:20.285Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T16:07:21.479Z"}
+{"message":"Parse error on line 10:\n...d>\r<body>\r  {{body}\r</body>\r</html>\n---------------------^\nExpecting 'CLOSE_RAW_BLOCK', 'CLOSE', 'CLOSE_UNESCAPED', 'OPEN_SEXPR', 'CLOSE_SEXPR', 'ID', 'OPEN_BLOCK_PARAMS', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', 'SEP', got 'INVALID'","stack":"Error: Parse error on line 10:\n...d>\r<body>\r  {{body}\r</body>\r</html>\n---------------------^\nExpecting 'CLOSE_RAW_BLOCK', 'CLOSE', 'CLOSE_UNESCAPED', 'OPEN_SEXPR', 'CLOSE_SEXPR', 'ID', 'OPEN_BLOCK_PARAMS', 'STRING', 'NUMBER', 'BOOLEAN', 'UNDEFINED', 'NULL', 'DATA', 'SEP', got 'INVALID'\n    at Parser.parseError (E:\\NodeJsProject\\FIRST-APP\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\parser.js:268:19)\n    at Parser.parse (E:\\NodeJsProject\\FIRST-APP\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\parser.js:337:30)\n    at HandlebarsEnvironment.parse (E:\\NodeJsProject\\FIRST-APP\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\base.js:46:43)\n    at compileInput (E:\\NodeJsProject\\FIRST-APP\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\compiler.js:515:19)\n    at ret (E:\\NodeJsProject\\FIRST-APP\\node_modules\\handlebars\\dist\\cjs\\handlebars\\compiler\\compiler.js:524:18)\n    at ExpressHandlebars._renderTemplate (E:\\NodeJsProject\\FIRST-APP\\node_modules\\express-handlebars\\lib\\express-handlebars.js:247:12)\n    at ExpressHandlebars.<anonymous> (E:\\NodeJsProject\\FIRST-APP\\node_modules\\express-handlebars\\lib\\express-handlebars.js:173:21)\n    at <anonymous>","level":"error","timestamp":"2018-10-25T16:08:11.515Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T16:09:00.187Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T16:09:01.339Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T16:18:25.275Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T16:18:26.623Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T16:19:06.592Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T16:19:07.765Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T16:20:11.005Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T16:20:12.350Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T18:33:16.201Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T18:33:17.289Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T19:51:24.020Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T19:51:25.261Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-25T20:10:33.481Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-25T20:10:34.659Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T18:13:09.352Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T18:16:44.652Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T18:16:45.901Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T18:25:00.291Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T18:25:01.512Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T18:28:34.951Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T18:28:36.171Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T18:30:25.465Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T18:30:26.680Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T18:32:20.767Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T18:32:21.995Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T18:35:12.587Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T18:35:13.872Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T18:35:21.751Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T18:35:22.971Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T18:42:57.602Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T18:42:58.833Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T18:47:10.170Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T18:47:11.403Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T18:49:13.233Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T18:49:14.484Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T18:51:16.907Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T18:51:18.129Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T19:12:15.584Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T19:12:16.834Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T19:14:54.623Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T19:14:56.153Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T19:19:49.993Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T19:19:51.267Z"}
+{"level":"info","message":"Hi i am listing to port 8080","timestamp":"2018-10-31T19:20:12.937Z"}
+{"level":"info","message":"Connected to db ","timestamp":"2018-10-31T19:20:14.222Z"}
